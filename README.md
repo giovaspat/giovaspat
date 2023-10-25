@@ -7,7 +7,7 @@ Hi there I'm Giovanni 👋
 - 🎧 I am a musician and creator of experimental graphics and videos
 
 
-- 📫 How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/giovannispatafora/) , [![Gmail Badge](giovaspat2222@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/giovannispatafora/)] , [![Gmail Badge](giovaspat2222@gmail.com)]
 
 
 * From [giovaspat](github.com/giovaspat)
