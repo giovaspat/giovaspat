@@ -1,4 +1,4 @@
-Hi there I'm Giovanni 👋
+<h1> Hi there I'm Giovanni 👋 </h1>
 
 ⚡I'm studying to become a full stack developer⚡
 
